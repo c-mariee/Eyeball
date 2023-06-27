@@ -1,4 +1,4 @@
-**Proyecto Eyeball**
+**Proyecto Eye Movement**
 <img src="Eyes.jpg" alt="Eye Movement">
 **Descripción:** Este proyecto consistía en tomar un código original con un globo ocular que pudiera seguir los movimientos del mouse para incluir dos globos oculares que pudieran seguir los movimientos del mouse. Ya, he actualizado el código css para cambiar el fondo y el color de la pupila.
 
